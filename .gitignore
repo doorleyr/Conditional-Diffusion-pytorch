@@ -1,0 +1,7 @@
+*runs/
+*models/
+*results/
+*dev.py
+*dev.ipynb
+*.ipynb_checkpoints/
+*__pycache__/
